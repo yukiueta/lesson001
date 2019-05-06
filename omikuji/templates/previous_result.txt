@@ -1,0 +1,1 @@
+$user_name、前回の結果は$previous_resultじゃったな。$comment。

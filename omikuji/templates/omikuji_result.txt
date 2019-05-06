@@ -1,0 +1,2 @@
+おみくじの結果は$resultじゃ。
+$comment。$user_name、いい1日を過ごすんじゃぞ。
